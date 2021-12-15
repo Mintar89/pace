@@ -1,13 +1,28 @@
 [![Build Status](https://travis-ci.com/kerrimcm/pace.svg?branch=master)](https://travis-ci.com/kerrimcm/pace)
+
+### [Makers Academy](http://www.makersacademy.com) - Final Engineering Project
+
 # Pace
 
-A running app built in Rails, designed to help runners feel safer and train harder.
+Final project at Makers where we build a web app to help running buddies meet up, feel safer, and train harder.
 
 Originally inspired by the idea of bringing people together via their common interests, namely exercise, we stretched the idea further to address the social issue of women's safety when running. The app is inclusive of all people, but offers a medium through which people can meet up safely and securely. Where they can find a partner to hold them accountable to their fitness goals and provide them with safety along the way. 
 
 <img src="app/assets/images/pace-logo.png" width="150" height="150">
 
 ![login demo](app/assets/images/Login.gif)
+
+## Team Members
+
+[Dominic Meddick] (https://github.com/dominicmeddick)
+
+[Ian Walton] (https://github.com/ian-1)
+
+[Ionut Cristian Mintar] (https://github.com/Mintar89)
+
+[Jessica Brand] (https://github.com/tremella)
+
+[Kerri McMahon] (https://github.com/kerrimcm)
 
 ## Getting started
 
